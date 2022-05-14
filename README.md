@@ -2,8 +2,11 @@
 
 #### 介绍
 软工毕设招聘项目，属于二次开发的项目了，答辩通过了就开源吧
-原始项目是来自github（https://github.com/git-chen513/smart-recruit）
+
+原始项目是来自github  https://github.com/git-chen513/smart-recruit
+
 技术使用的是springboo+mybatis-plus+Vue+elementui
+
 所有用户初始密码是123456
 
 #### 软件架构
@@ -16,7 +19,6 @@
 2.  recruit-web为前端，安装node.js V12以上版本，使用yarn install安装包依赖，然后yarn run serve运行
 
 #### 使用说明
-
 1.  xxxx
 2.  xxxx
 3.  xxxx
