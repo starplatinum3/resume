@@ -5,7 +5,7 @@
 
 原始项目是来自github  https://github.com/git-chen513/smart-recruit
 
-技术使用的是springboo+mybatis-plus+Vue+elementui
+技术使用的是SpringBoot+Mybatis-Plus+Vue+ElementUI
 
 所有用户初始密码是123456
 
