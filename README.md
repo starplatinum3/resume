@@ -1,9 +1,7 @@
 # springboot+vue实现招聘平台(系统)
 
 #### 介绍
-软工毕设招聘项目，属于二次开发的项目了，答辩通过了就开源吧
-
-原始项目是来自github  https://github.com/git-chen513/smart-recruit
+软工毕设招聘项目，答辩通过了就开源吧
 
 技术使用的是SpringBoot+Mybatis-Plus+Vue+ElementUI
 
